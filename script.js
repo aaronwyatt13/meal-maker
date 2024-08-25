@@ -1,4 +1,4 @@
-onst menu = {
+const menu = {
     _meal: ' ' ,
     _price: 0  ,
     
@@ -27,3 +27,4 @@ onst menu = {
   menu.meal = 'pizza' ;
   menu.price = 8.99;
   console.log(menu.todaysSpecial);
+  
